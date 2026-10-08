@@ -4,9 +4,9 @@ int main() {
     int i = 10;
 
     if (i & (i - 1)) {
-        printf("false");
+        printf("否");
     } else {
-        printf("true");
+        printf("是");
     }
 
     return 0;
